@@ -4,13 +4,13 @@ O caso de uso comercial para a semelhança de envolve a comparação de perfis d
 
 Se alguém pode comparar se dois objetos são semelhantes, pode-se usar a semelhança como um bloco de construção para conseguir tarefas mais complexas, como:
 
-*pesquisa: encontre o documento mais parecido com um dado.
-<br>
-*classificação: algum cliente pode comprar esse produto.
-<br>
-*agrupamento: existem grupos naturais de documentos similares.
-<br>
-*recomendações de produtos: quais produtos são semelhantes às compras passadas do cliente.
+* pesquisa: encontre o documento mais parecido com um dado.
+
+* classificação: algum cliente pode comprar esse produto.
+
+* agrupamento: existem grupos naturais de documentos similares.
+
+* recomendações de produtos: quais produtos são semelhantes às compras passadas do cliente.
 
 
 # Os documentos são vetores, os perfis dos clientes são vetores
