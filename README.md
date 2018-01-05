@@ -168,3 +168,5 @@ semelhança (a, b) = cosseno do ângulo entre os dois vetores
 Por que a normalização é importante? Considere esta questão: como você compara um documento curto com um documento longo. A normalização torna os documentos comparáveis.
 
 "Por que a normalização por comprimento de vetor é bom?" É uma questão que é muito mais difícil de responder. Pode-se considerar outras formas de normalizar os vetores.
+
+Continua
